@@ -1,1 +1,1 @@
-Sitemap: sitemap.xml
+Sitemap: https://philscher.github.io/sitemap.xml

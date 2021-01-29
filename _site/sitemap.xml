@@ -1,25 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
-<loc></loc>
+<loc>https://philscher.github.io/</loc>
 </url>
 <url>
-<loc>markdown_generator/</loc>
+<loc>https://philscher.github.io/markdown_generator/</loc>
 </url>
 <url>
-<loc>files/paper1.pdf</loc>
+<loc>https://philscher.github.io/files/paper1.pdf</loc>
 <lastmod>2021-01-29T04:32:48-08:00</lastmod>
 </url>
 <url>
-<loc>files/paper2.pdf</loc>
+<loc>https://philscher.github.io/files/paper2.pdf</loc>
 <lastmod>2021-01-29T04:32:48-08:00</lastmod>
 </url>
 <url>
-<loc>files/paper3.pdf</loc>
+<loc>https://philscher.github.io/files/paper3.pdf</loc>
 <lastmod>2021-01-29T04:32:48-08:00</lastmod>
 </url>
 <url>
-<loc>talkmap/map.html</loc>
+<loc>https://philscher.github.io/talkmap/map.html</loc>
 <lastmod>2021-01-29T04:32:48-08:00</lastmod>
 </url>
 </urlset>
