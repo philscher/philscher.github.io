@@ -21,6 +21,7 @@ I've obtained my PhD from the _Kyoto University_ in the field of plasma physics,
 developed a numerical code to research the interplay between turbulence of various scales
 within fusion devices.
 
-If not at working or leisure I either dive into the exciting world of new technology,
+On rainy days, when I am not at working I either dive into the exciting world of new technology,
 or following my long term interests of computer architectures, high-performance
 computing, and (a bit crazy) superluminal technologies.
+
